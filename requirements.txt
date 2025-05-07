@@ -1,0 +1,10 @@
+fastapi>=0.68
+uvicorn>=0.15
+gradio>=3.0
+paddleocr>=2.6
+paddlepaddle>=2.4
+python-multipart>=0.0
+pydantic>=1.9
+opencv-python>=4.5
+python-dotenv>=0.19
+
