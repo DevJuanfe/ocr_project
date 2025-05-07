@@ -68,16 +68,6 @@ python app/interface/gradio_ui.py
 
 Esto abre una interfaz visual en el navegador donde puedes subir imágenes y ver resultados.
 
----
-
-4. Ejecutar pruebas (si existen)
-
-```bash
-set PYTHONPATH=.
-pytest app/tests -v
-```
-
----
 
 Info adicional
 Los modelos OCR se descargan automáticamente al usar PaddleOCR por primera vez.
